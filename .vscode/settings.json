@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "sstream": "c",
+        "random": "c"
+    },
+    "java.project.sourcePaths": [
+        "Java",
+        ""
+    ],
+    "C_Cpp.errorSquiggles": "Disabled"
+}
