@@ -237,6 +237,8 @@ public class Defense_Game extends JFrame{
         });
         
    
+
+		
         mpanel.add(name);
         mpanel.add(name2);
 
